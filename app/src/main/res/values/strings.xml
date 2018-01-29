@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">掌上无人机</string>
+    <string name="title_activity_demo">掌上无人机</string>
+    <string name="disconnected">未连接</string>
+    <string name="product_information">产品信息</string>
+    <string name="connection_loose">状态: 产品未连接</string>
+    <string name="sdk_version">DJI SDK 版本: 4.4.1</string>
+    <string name="push_info">信息展示</string>
+</resources>
